@@ -75,7 +75,7 @@ export XAPPLRESDIR=$MCR_HOME/v90/X11/app-defaults
 
 Step 2. Run program miRTMC_linux
 (1) Open a terminal;
-(2) Change the directory to the fold that including miRTMC_linux and dataset files.
+(2) Change the directory to the fold that including miRTMC_linux, para.txt and dataset files.
 (3) Enter command: ./miRTMC   
 
 After running miRTMC_linux,the result file Result_MTmatrix.txt is generated. This result file is the completed miRNA-gene interaction matrix file containing predicted scores for unknown miRNA-gene interactions.  
