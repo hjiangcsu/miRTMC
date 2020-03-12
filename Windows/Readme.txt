@@ -22,7 +22,7 @@ tol:	tolerance
 maxiter:        the max iteration of the second step of ADMM-R4SVD.
 maxiter_fk:	the max iteration of the first step of ADMM-R4SVD.
 
-The computational result of this program depend on the random numbers generated, which may not be exactely the same as those shown in the manuscript submitted to the Journal of Biomedical and Health Informatics..
+The computational result of this program depend on the random numbers generated, which may not be exactely the same as those shown in the manuscript submitted to the Journal of Biomedical and Health Informatics.
 ____________________________________________________________________________________________________________________________________________
 
 For Windows platform
